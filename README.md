@@ -21,7 +21,7 @@ Navi es una herramienta de línea de comandos diseñada para ofrecer una experie
    ```
 2. **Clona el repositorio**
    ```bash
-   git clone https://github.com/CodeDiego15/Navi
+   git clone https://github.com/DiegoDev2/Navi
    ```
 3. **Compila**
    ```bash
@@ -40,7 +40,7 @@ Navi es una herramienta de línea de comandos diseñada para ofrecer una experie
    ```
 2. **Clona el repositorio**
    ```bash
-   git clone https://github.com/CodeDiego15/Navi
+   git clone https://github.com/DiegoDev2/Navi
    ```
 3. **Compila**
    ```bash
